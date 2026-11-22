@@ -30,7 +30,6 @@ function draw() {
   fill("red");
   square(0, 0, 10);
   pop();
-  windowResized();
 }
 
 function windowResized() {
