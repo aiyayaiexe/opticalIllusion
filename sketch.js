@@ -1,6 +1,6 @@
 let scene = true;
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(windowWidth, windowHeight);
   rectMode(CENTER);
   angleMode(DEGREES);
 }
